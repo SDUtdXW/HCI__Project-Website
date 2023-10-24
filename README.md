@@ -5,7 +5,7 @@ In this project, the team designed survey questionnaires and interview scripts f
 ## Members
 | Name | Major | Student ID | Assignment |
 |------|-----|-----|-----|
-|  Yiming Jiang  | Computer Science and Technology       |  202000130056  |  Interview Script Design;Interview Content Organization  |
-|  Wei Xu        |  Computer Science and Technology      |  202018130160  |  Questionnaire Draft Design;Summary and Website Design  |
-|  Kai Dong      | Data Science and Big Data Technology  |  202000130051  |  Material Collection and Document Enhancement;Interviews and Questionnaire Distribution |
-|  Jiacheng Li   |  Data Science and Big Data Technology |  202000130012  |  Content Optimization and Formatting;Questionnaire Content Organization  |
+|  Yiming Jiang  | Computer Science and Technology       |  202000130056  |  Interview Script Design; Interview Content Organization  |
+|  Wei Xu        |  Computer Science and Technology      |  202018130160  |  Questionnaire Draft Design; Summary and Website Design  |
+|  Kai Dong      | Data Science and Big Data Technology  |  202000130051  |  Material Collection and Document Enhancement; Interviews and Questionnaire Distribution |
+|  Jiacheng Li   |  Data Science and Big Data Technology |  202000130012  |  Content Optimization and Formatting; Questionnaire Content Organization  |
