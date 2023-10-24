@@ -1,5 +1,6 @@
 # HCI__Project-Website
 **Project Website For HCI Of '啊对对队'**
+
 **ps：team_Intro.pdf is an introduction of our team , here we'll introduce ours in detail.**
 ## Background 
 **In this project, the team designed survey questionnaires and interview scripts focusing on `the application of Artificial Intelligence (AI) technology in various domains`, including education, employment, entertainment, and healthcare. Respondents from multiple positions and age groups, such as students, teachers, and company employees, were selected. A total of `10 surveys and 4 interviews` were conducted. Through this research, we gained a preliminary understanding of people's experiences and thoughts regarding AI technology. This holds significant reference value for exploring the future development of AI.**
